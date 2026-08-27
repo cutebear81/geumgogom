@@ -1,0 +1,57 @@
+{
+  "identifier": "geumgogom-tips",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "0.99",
+      "familyShareable": false,
+      "internalID": "tip-icecream",
+      "localizations": [
+        {
+          "description": "아이스크림 한 개만큼의 응원",
+          "displayName": "아이스크림 한 개",
+          "locale": "ko_KR"
+        }
+      ],
+      "productID": "com.tonyne.geumgogom.tip.icecream",
+      "referenceName": "아이스크림 후원",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "2.99",
+      "familyShareable": false,
+      "internalID": "tip-coffee",
+      "localizations": [
+        {
+          "description": "커피 한 잔만큼의 응원",
+          "displayName": "커피 한 잔",
+          "locale": "ko_KR"
+        }
+      ],
+      "productID": "com.tonyne.geumgogom.tip.coffee",
+      "referenceName": "커피 후원",
+      "type": "Consumable"
+    },
+    {
+      "displayPrice": "6.99",
+      "familyShareable": false,
+      "internalID": "tip-meal",
+      "localizations": [
+        {
+          "description": "든든한 한 끼만큼의 응원",
+          "displayName": "든든한 한 끼",
+          "locale": "ko_KR"
+        }
+      ],
+      "productID": "com.tonyne.geumgogom.tip.meal",
+      "referenceName": "한끼 후원",
+      "type": "Consumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}

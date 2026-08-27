@@ -1,0 +1,8 @@
+{
+  "images" : [
+    { "filename" : "logo_b.png", "idiom" : "universal" },
+    { "appearances" : [ { "appearance" : "luminosity", "value" : "dark" } ],
+      "filename" : "logo_w.png", "idiom" : "universal" }
+  ],
+  "info" : { "author" : "xcode", "version" : 1 }
+}
