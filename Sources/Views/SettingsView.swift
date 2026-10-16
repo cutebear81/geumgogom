@@ -20,7 +20,7 @@ struct SettingsView: View {
     @State private var showPasscode = false
     @State private var message: String?
 
-    private let contactEmail = "tonyneplanning@gmail.com"
+    private let contactEmail = "help@tonyne.kr"
 
     private var appVersion: String {
         let v = Bundle.main.infoDictionary?["CFBundleShortVersionString"] as? String ?? "1.0"

@@ -13,4 +13,4 @@
 - 지원: [SUPPORT.md](SUPPORT.md)
 
 ## 만든 곳
-토니네 · www.tonyne.kr · tonyneplanning@gmail.com
+토니네 · www.tonyne.kr · help@tonyne.kr

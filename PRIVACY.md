@@ -74,5 +74,5 @@
 
 ## 12. 문의
 
-- 이메일: **tonyneplanning@gmail.com**
+- 이메일: **help@tonyne.kr**
 - 제작: 토니네 (www.tonyne.kr)
